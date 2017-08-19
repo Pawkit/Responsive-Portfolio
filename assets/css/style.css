@@ -19,6 +19,10 @@ body {
   clear: both;
 }
 
+.container-about {
+  margin-right: 15%;
+}
+
 h1,
 h2,
 h3,
@@ -49,8 +53,6 @@ h2,
 h3 {
   font-size: 22px;
 }
-
-/* header */
 
 #masthead {
   position: fixed;
@@ -237,3 +239,5 @@ input[type=submit] {
   background: #4aaaa5;
   border: 0 none;
 }
+
+
